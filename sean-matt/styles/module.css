@@ -1,0 +1,4 @@
+.icon-menu:hover + section nav li{
+  display: block;
+  color: white;
+}
